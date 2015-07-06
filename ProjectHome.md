@@ -1,0 +1,1 @@
+A basic median filter that is used for filtering and removing noise and dust from an image.It uses OpenMP for multiprocessor systems and MPI for clusters.For now,only BMP extension is supported.It's written in c++.
